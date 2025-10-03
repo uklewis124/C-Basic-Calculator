@@ -9,6 +9,8 @@
 // using std::cout;  // The equivelent of "from std import cout"
 // using std::endl;  // The equivelent of "from std import endl"
 
+// yes
+
 using namespace std;
 
 // Optionally, you can manually add everything, similar to just
